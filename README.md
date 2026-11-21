@@ -8,12 +8,12 @@ A responsive, high-fidelity task management dashboard built with **React**, **Ty
 
 | Field | Details |
 | :--- | :--- |
-| **Candidate** | FocusBoard Engineering Candidate |
+| **Candidate** | Gnaneswar Kokkirala |
 | **Framework** | React 18 + Vite (TypeScript) |
 | **Styling** | Tailwind CSS + Lucide Icons + Plus Jakarta Sans |
 | **State Management** | React Context API + Custom Hooks (`TaskContext`) with LocalStorage Persistence |
 | **Live Hosted URL** | *https://focusboard-mobilefirst.vercel.app* (Ready for Vercel/Netlify deployment via `dist/`) |
-| **GitHub Source** | *https://github.com/your-username/focusboard-dashboard* |
+| **GitHub Source** | https://github.com/GNANESWARKOKKIRALA/focusboard-dashboard |
 | **Assessment Window** | 24 Hours Frontend Assessment |
 
 ---
